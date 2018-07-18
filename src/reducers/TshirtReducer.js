@@ -1,23 +1,24 @@
-// const initialState = []
-
-// const Tshirtreducer = [
+const initialState = [
  
-//   {
-//   taille : "xl",
-//   color : "blue" ,
-// },
-// {
-//   taille : "l",
-//   color : "red" ,
-// }]
+  {
+  taille : "xl",
+  color : "blue" ,
+},
+{
+  taille : "l",
+  color : "red" ,
+}]
 
-// const Tshirtreducer = (prevstate=initialState,action) => {
-//   return prevstate
-// }
+const Tshirtreducer = [
+ 
+  {
+  taille : "xl",
+  color : "blue" ,
+},
+{
+  taille : "l",
+  color : "red" ,
+}]
 
-// export default Tshirtreducer
-
-
-const Tshirtreducer = () => null ;
 
 export default Tshirtreducer;
